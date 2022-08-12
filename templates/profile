@@ -1,1 +1,1 @@
-web: gunicorn primeirosite:app
+web:gunicorn primeirosite:app
